@@ -1,4 +1,3 @@
-import pandas as pd
 from io import StringIO, BytesIO, TextIOWrapper
 from zipfile import ZipFile
 import urllib
